@@ -1,6 +1,6 @@
 # Predicting Length of Stay with Boosting Algorithm
 
-## Graditent Boost Algorithm 
+## Gradient Boost Algorithm 
 Ensemble learning or boosting has become one of the most promising approaches for analysing data in machine learning domain. The method was initially proposed as ensemble methods based on the principle of generating multiple predictions and average voting among individual classifiers.
 
 ### AdaBoost   
