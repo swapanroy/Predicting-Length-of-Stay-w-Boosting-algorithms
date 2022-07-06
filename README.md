@@ -1,12 +1,12 @@
 # Predicting Length of Stay with Boosting Algorithm
  
-**Topics covered : 
+**Topics covered :**
 
-1. What is Boosting ?
+**1. What is Boosting ?**
 
-2. What is a Boosting Algorithms ?
+**2. What is a Boosting Algorithms ?**
 
-3. Examples of Boosting Algorithm **
+**3. Examples of Boosting Algorithm**
 
 For end to end implementation refer to : [HealthCare Predicting Length of stay with boosting algorithms](https://www.kaggle.com/code/swapanroy/predicting-length-of-stay-w-boosting-algorithms/notebook?scriptVersionId=100100872) 
 
